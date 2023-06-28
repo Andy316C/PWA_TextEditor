@@ -107,11 +107,11 @@
    <div id='VideoLink'>
 <br>
 
-## Screencastify video link
+## Heroku link
 
-Click below for the video:
+Click below to view Heroku App:
 
-<a href= "https://drive.google.com/file/d/148_TX1_-On5tWOuPlMerwqgd1WZUJdTq/view">walkthrough video </a>
+<a href= "https://pwatexteditorlocal-d5e8fd656fa7.herokuapp.com/">Heroku App </a>
 
    </div>
 
