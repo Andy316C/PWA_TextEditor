@@ -69,10 +69,6 @@
   <img src= './images/download.png'>
   <br>
   
-  Updating requests, will return the success data. and will return a "Entry Added" if the entry was successfull
-  <img src= './images/updateEmployee.png'>
-  <br>
-  
   </div>
 
   <br>
